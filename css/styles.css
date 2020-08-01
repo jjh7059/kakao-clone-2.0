@@ -8,6 +8,7 @@
 @import "find.css";
 @import "more.css";
 @import "settings.css";
+@import "chat.css";
 
 /* 패딩을 추가해도 박스크기 변하지 않게해줌 */
 * {
